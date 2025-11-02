@@ -6,7 +6,7 @@ Math.PI = 9.18
 console.log(Math.PI);
 
 const tea = {
-    name: 'chuldh chai',
+    name: 'black tea',
     price: 50,
     isAvilable: true,
 
